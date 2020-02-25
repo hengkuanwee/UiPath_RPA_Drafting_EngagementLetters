@@ -1,6 +1,6 @@
 This project is done to test my knowledge in UiPath in terms of using the Robotic Enterprise Framework, Orchestrator, Logging of Errors, Setting up of Config file etc.
 
-Purpose: To generate letters easily setting up the templates and linking data between Microsoft Excel (Data to be added to Letter Template) and Microsoft Word (Letter Template). 
+Purpose: Generate letters easily. Simply 1) set up the template (in Word) and 2) import data (in Excel).  
 
 The programme is created for dynamic usage (i.e. you can easily add any number of templates and "headers" and it will run properly). Therefore, you will only need to make changes to the excel and word files in order to use this programme. (No changes need to be done to the code)
 
